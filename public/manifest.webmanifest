@@ -1,0 +1,9 @@
+{
+  "name": "EventApp",
+  "short_name": "EventApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C0C1E",
+  "theme_color": "#0C0C1E",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
